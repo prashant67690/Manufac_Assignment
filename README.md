@@ -30,16 +30,18 @@ Follow these steps to run the project locally:
 
 2. **Install dependencies using yarn:**
 
-````bash
- yarn install
+   ```bash
+    yarn install
+   ```
 
 3. **Start the development server:**
-```bash
-yarn start
+
+   ```bash
+    yarn start
+   ```
 
 4. ** Open your browser:**
-    Open http://localhost:3000 to view the project in the browser.
-````
+   Open http://localhost:3000 to view the project in the browser.
 
 ### Explanation:
 
@@ -54,3 +56,7 @@ yarn start
 - Make sure to replace `yourusername/your-project.git` with the actual URL of your project repository.
 - Customize paths (`your-project`) and URLs (`http://localhost:3000`) according to your specific project setup if they differ.
 - Include any additional setup instructions or prerequisites necessary for running your project effectively.
+
+```
+
+```
